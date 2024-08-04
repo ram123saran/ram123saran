@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ram Saran</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 📫 How to reach me **iammotaramsaran@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ram12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram12/" height="30" width="40" /></a>
